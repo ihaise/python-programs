@@ -1,3 +1,5 @@
+//well you change the "print" value with actual horoscopes of the year
+//your program will be correct for a whole year 
 def demo():
 	a=input("Enter your name")
 	print(f"jhhjfhfjhjhj {a}")
