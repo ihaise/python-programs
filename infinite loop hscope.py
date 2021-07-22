@@ -1,8 +1,7 @@
 //well you change the "print" value with actual horoscopes of the year
 //your program will be correct for a whole year 
 def demo():
-	a=input("Enter your name")
-	print(f"jhhjfhfjhjhj {a}")
+	print("welcome")
 	saiki = input(""" "enter Your Zodiac Sign" """).lower()
 	
 	if saiki == 'leo':
@@ -37,17 +36,17 @@ def demo():
 	elif saiki == 'capricorn':
 	  print("capricorn is 12000")
 	
-	elif saiki == 'pisces':
+	elif saiki == 'zodiac':
 	   print("pisces is 13000")
 		
-	elif saiki=="rom":
-		print("hey rom guy")
+	elif saiki=="zodiac":
+		print("*horoscope value")
 	
 	else:
 	  print(""" *Your Ìnput Was Wrong. Pls enter your zodiac sign """)
 	  
 	
-	  print(""" "This Program Was developed By me aka Light Yagami" """)
+	  print(""" "This Program Was developed by me aka Light Yagami" """)
 	  demo()
 	
 	
